@@ -1,1 +1,3 @@
-# spaceTitanic
+# spaceship-titanic
+
+Working on a solution to the Spaceship Titanic Challenge on Kaggle....
